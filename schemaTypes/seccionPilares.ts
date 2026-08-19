@@ -2,7 +2,7 @@ import { defineType, defineField } from 'sanity'
 
 export default defineType({
   name: 'seccionPilares',
-  type: 'document',
+  type: 'object',
   title: 'Sección: Pilares y Herramientas',
   fields: [
     // --- PILAR 1: MARKETING DIGITAL 360 ---

@@ -1,6 +1,6 @@
 export default {
   name: 'servicio',
-  type: 'document',
+  type: 'object',
   title: 'Servicios de Publicidad',
   fields: [
     {

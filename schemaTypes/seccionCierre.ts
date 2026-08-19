@@ -2,7 +2,7 @@ import { defineType, defineField } from 'sanity'
 
 export default defineType({
   name: 'seccionCierre',
-  type: 'document',
+  type: 'object',
   title: 'Sección: Slogan y Formulario',
   fields: [
     defineField({

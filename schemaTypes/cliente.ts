@@ -2,7 +2,7 @@ import { defineType, defineField } from 'sanity'
 
 export default defineType({
   name: 'cliente', // <-- ESTE ES EL _type QUE BUSCA CLAUDE
-  type: 'document',
+  type: 'object',
   title: 'Nuestros Clientes',
   fields: [
     defineField({
