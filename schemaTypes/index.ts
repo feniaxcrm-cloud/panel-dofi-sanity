@@ -11,5 +11,5 @@ export const schemaTypes = [
   seccionHacemos, 
   seccionSocio, 
   seccionCierre,
-  eccionPilares
+  seccionPilares
 ]
