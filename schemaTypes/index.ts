@@ -1,8 +1,8 @@
 import servicio from './servicio'
-import cliente from './cliente' 
-import seccionHacemos from './seccionHacemos'// <-- Nueva importación
-import seccionSocio from './seccionSocio'// <-- Nueva importación
-import seccionCierre from './seccionCierre'// <-- Nueva importación
+import cliente from './cliente'
+import seccionHacemos from './seccionHacemos'
+import seccionSocio from './seccionSocio'
+import seccionCierre from './seccionCierre'
 
 export const schemaTypes = [
   servicio, 
