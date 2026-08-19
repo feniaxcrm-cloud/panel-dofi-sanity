@@ -21,6 +21,8 @@ export default defineType({
         { type: 'seccionHacemos' }, // Asegúrate de usar el 'name' exacto definido dentro de ese archivo
         { type: 'seccionPilares' },
         { type: 'seccionCierre'  },
+        { type: 'cliente'},
+        { type: 'servicio'},
       ],
     }),
   ],
